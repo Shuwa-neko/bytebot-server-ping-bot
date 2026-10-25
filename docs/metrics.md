@@ -10,7 +10,7 @@
 | :--- | :--- | :---: |
 | `/stats` | Базовая статистика, распределение онлайна и временные ряды | [metrics/stats.md](metrics/stats.md) |
 | `/diff` | Сравнительный анализ изменений и дельта показателей | [metrics/diff.md](metrics/diff.md) |
-| `/tracker` (`/trecker`) | Отслеживание динамики сессий и удержания аудитории | [metrics/tracker.md](metrics/tracker.md) |
+| `/tracker` (`/track`) | Отслеживание динамики сессий и удержания аудитории | [metrics/tracker.md](metrics/tracker.md) |
 | `/dns` | Резолвинг доменов, проверка SRV/A-записей и сетевых маршрутов | [metrics/dns.md](metrics/dns.md) |
 | `/ping` | Базовый замер RTT, доступность узла и сетевая задержка | [metrics/ping.md](metrics/ping.md) |
 | `/bping` | Расширенная пакетная диагностика и аудит стабильности | [metrics/bping.md](metrics/bping.md) |
